@@ -1,0 +1,4 @@
+*.cmd
+!a3.cmd
+*.class
+!/folder/12.class
